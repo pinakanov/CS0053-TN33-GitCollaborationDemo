@@ -7,5 +7,7 @@ int main() {
     cout << "1. Add Student" << endl;
     cout << "2. View Students" << endl;
     cout << "3. Exit" << endl;
+    cout << "JEREMY SAN JUAN THE GREAT" endl;
+    cout << "about" endl;
     return 0;
 }
